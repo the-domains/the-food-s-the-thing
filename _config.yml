@@ -1,0 +1,37 @@
+name: The Food's The Thing
+analytics: {}
+github: true
+description: >-
+  Recepies, Food Ideas, Cooking Tricks, Tools, and Tutorials and of course food
+  porn  
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.5055881331209093
+color:
+  lightness: 0.9842723282017448
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  saturation: 0.3658767783469233
+  brandStrength: 0.2272126726403862
+  rhythmicContrast: 0.1813871791077282
+content_rating:
+  adult: false
+typography_spectrum: 0.7297866514418274
+opengraph: {}
+title: Wherein I'll Catch The Ittis Of The King
